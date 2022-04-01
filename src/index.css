@@ -1,0 +1,10 @@
+.body-div{
+    display: flex;
+    width: 100%;
+}
+.main-div{
+    text-align: center;
+    border: 3px solid rgb(46, 89, 207);
+    margin: 4px;
+    width: 100%;
+}
